@@ -1,4 +1,4 @@
-# CSCI4830-7000: Computational & Mathematical Modelling of Infectious Disease FinalProject
+# CSCI4830-7000: Computational & Mathematical Modeling of Infectious Disease FinalProject
 ## Authors: Behzod Mirpochoev & Caleb Cordsen
 This is the repo for the code we utilized in our final project. Our final project involved predicting COVID-19 case data using different kinds of machine learning algorithms. This project was heavily based on heavily on a paper by Vahedi, Karimzadeh and Zoraghein called "Spatiotemporal Prediction of COVID-19 Cases using Inter- and Intra-County Proxies of Human Interactions". Needed to run our files is the dataset provided by this paper. No changes were made to this file but it is necessary to run our code. The dataset will have to be downloaded from the citation below. The citation for the paper is also included.
 
